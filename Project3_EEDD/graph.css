@@ -1,0 +1,21 @@
+graph{
+    fill-color: #bc572f;
+    fill-mode: gradient-vertical;
+}
+
+node{
+    text-color: white;
+    size: 30px, 30px;
+    shape: circle;
+    fill-color: red, orange; 
+    fill-mode: gradient-vertical;
+    stroke-mode: plain;
+    stroke-color: black; 
+    stroke-width: 5px;
+}
+edge {
+    fill-color: #d19214;
+    size: 2px;        
+}
+
+
